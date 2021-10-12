@@ -1,6 +1,6 @@
 # FishSizer
 
-FishSizer is an open-source software developed to assist researchers in the use of estimating length and depth of fish larvae. FishSizer has an intuitive graphical user interface (GUI) which facilitate efficient workflow when working with large datasets. It contain windows for visually verification of automatic parameter extraction. In case of unsatisfactory extraction, manual measurements id done very intuitively.
+FishSizer is an open-source software developed to assist researchers in the use of estimating length and depth of fish larvae by semi-automatization of the process. FishSizer has an intuitive graphical user interface (GUI) which facilitate efficient workflow when working with large datasets. It contain windows for visual verification of automatic parameter extraction. In case of unsatisfactory extraction, manual measurements id done very intuitively.
 
 Application Documentation
 
